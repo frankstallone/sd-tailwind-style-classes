@@ -85,20 +85,7 @@ StyleDictionary.registerFormat({
           );
           return `export const ${name} = "${options.prefix}-${token.attributes.type}-${token.attributes.item}";`;
         }
-        // // If padding let's create a utility class
-        // if (
-        //   options.property === 'padding' &&
-        //   token.attributes.type === 'spacing'
-        // ) {
-        //   return `export const ${options.prefix}${token.attributes.item} { ${options.property}: ${token.value} };`;
-        // }
-        // // If margin let's create a utility class
-        // if (
-        //   options.property === 'margin' &&
-        //   token.attributes.type === 'spacing'
-        // ) {
-        //   return `export const ${options.prefix}${token.attributes.item} { ${options.property}: ${token.value} };`;
-        // }
+        // TODO: ES6 versions for margins/padding
         return;
       })
       .join(`\n`);
