@@ -1,17 +1,7 @@
 const StyleDictionary = require('style-dictionary');
 const pascalcase = require('pascalcase');
 
-const colorProperties = [
-  'primary',
-  'neutral',
-  'blue',
-  'green',
-  'red',
-  'yellow',
-  'orange',
-  'purple',
-  'pink',
-];
+const colorProperties = ['primary', 'neutral'];
 
 // https://github.com/dbanksdesign/style-dictionary-css-helpers/blob/master/formats/cssHelpers.js
 // 3.0 docs https://github.com/amzn/style-dictionary/blob/7e47837cfad0aec1a75c14de6103ec23ed5aa2aa/docs/version_3.md
