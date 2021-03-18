@@ -1,0 +1,12 @@
+{
+  color: {
+    font: {
+      base: {
+        value: '{color.neutral.900.value}',
+      },
+      link: {
+        value: '{color.primary.500.value}',
+      },
+    },
+  },
+}

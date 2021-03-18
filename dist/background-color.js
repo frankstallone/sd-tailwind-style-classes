@@ -1,0 +1,24 @@
+'use strict';
+exports.__esModule = true;
+exports.BgNeutral900 = exports.BgNeutral800 = exports.BgNeutral700 = exports.BgNeutral600 = exports.BgNeutral500 = exports.BgNeutral400 = exports.BgNeutral300 = exports.BgNeutral200 = exports.BgNeutral100 = exports.BgNeutral50 = exports.BgPrimary900 = exports.BgPrimary800 = exports.BgPrimary700 = exports.BgPrimary600 = exports.BgPrimary500 = exports.BgPrimary400 = exports.BgPrimary300 = exports.BgPrimary200 = exports.BgPrimary100 = exports.BgPrimary50 = void 0;
+exports.BgPrimary50 = 'bg-primary-50';
+exports.BgPrimary100 = 'bg-primary-100';
+exports.BgPrimary200 = 'bg-primary-200';
+exports.BgPrimary300 = 'bg-primary-300';
+exports.BgPrimary400 = 'bg-primary-400';
+exports.BgPrimary500 = 'bg-primary-500';
+exports.BgPrimary600 = 'bg-primary-600';
+exports.BgPrimary700 = 'bg-primary-700';
+exports.BgPrimary800 = 'bg-primary-800';
+exports.BgPrimary900 = 'bg-primary-900';
+exports.BgNeutral50 = 'bg-neutral-50';
+exports.BgNeutral100 = 'bg-neutral-100';
+exports.BgNeutral200 = 'bg-neutral-200';
+exports.BgNeutral300 = 'bg-neutral-300';
+exports.BgNeutral400 = 'bg-neutral-400';
+exports.BgNeutral500 = 'bg-neutral-500';
+exports.BgNeutral600 = 'bg-neutral-600';
+exports.BgNeutral700 = 'bg-neutral-700';
+exports.BgNeutral800 = 'bg-neutral-800';
+exports.BgNeutral900 = 'bg-neutral-900';
+//# sourceMappingURL=background-color.js.map

@@ -1,0 +1,70 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 18 Mar 2021 13:11:48 GMT
+ */
+
+:root {
+  --component-button-primary-background-color: #1e40af;
+  --component-button-primary-color: #f1f5f9;
+  --component-button-secondary-background-color: #1d4ed8;
+  --component-button-secondary-color: #f1f5f9;
+  --component-button-font-size: 1rem;
+  --component-button-svg-font-size: 1.875rem;
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8; /* Main button */
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+  --color-neutral-50: #f8fafc;
+  --color-neutral-100: #f1f5f9;
+  --color-neutral-200: #e2e8f0;
+  --color-neutral-300: #cbd5e1;
+  --color-neutral-400: #94a3b8;
+  --color-neutral-500: #64748b;
+  --color-neutral-600: #475569;
+  --color-neutral-700: #334155;
+  --color-neutral-800: #1e293b;
+  --color-neutral-900: #0f172a;
+  --color-font-base: #0f172a;
+  --color-font-link: #3b82f6;
+  --size-font-4-xs: 0.625rem; /* 10px */
+  --size-font-3-xs: 0.75rem; /* 12px */
+  --size-font-2-xs: 0.8125rem; /* 13px */
+  --size-font-xs: 0.9375rem; /* 15px */
+  --size-font-default: 1rem; /* 16px */
+  --size-font-lg: 1.125rem; /* 18px */
+  --size-font-xl: 1.25rem; /* 18px */
+  --size-font-2-xl: 1.5rem; /* 24px */
+  --size-font-3-xl: 1.875rem; /* 30px */
+  --size-font-4-xl: 2rem; /* 32px */
+  --size-spacing-0: 0rem;
+  --size-spacing-1: 0.25rem;
+  --size-spacing-2: 0.5rem;
+  --size-spacing-3: 0.75rem;
+  --size-spacing-4: 1rem;
+  --size-spacing-5: 1.25rem;
+  --size-spacing-6: 1.5rem;
+  --size-spacing-7: 1.75rem;
+  --size-spacing-8: 2rem;
+  --size-spacing-9: 2.25rem;
+  --size-spacing-10: 2.5rem;
+  --size-spacing-11: 2.75rem;
+  --size-spacing-12: 3rem;
+  --size-spacing-14: 3.5rem;
+  --size-spacing-16: 4rem;
+  --size-spacing-20: 5rem;
+  --size-spacing-24: 6rem;
+  --size-spacing-28: 7rem;
+  --size-spacing-32: 8rem;
+  --size-spacing-36: 9rem;
+  --size-spacing-40: 10rem;
+  --size-spacing-0-5: 0.125rem;
+  --size-spacing-1-5: 0.375rem;
+  --size-spacing-2-5: 0.625rem;
+  --size-spacing-3-5: 0.875rem;
+}

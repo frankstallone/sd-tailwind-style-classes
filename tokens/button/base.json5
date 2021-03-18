@@ -1,0 +1,30 @@
+{
+  component: {
+    button: {
+      primary: {
+        'background-color': {
+          value: '{color.primary.800.value}',
+        },
+        color: {
+          value: '{color.neutral.100.value}',
+        },
+      },
+      secondary: {
+        'background-color': {
+          value: '{color.primary.700.value}',
+        },
+        color: {
+          value: '{color.neutral.100.value}',
+        },
+      },
+      'font-size': {
+        value: '{size.font.default.value}',
+      },
+      svg: {
+        'font-size': {
+          value: '{size.font.3xl.value}',
+        },
+      },
+    },
+  },
+}

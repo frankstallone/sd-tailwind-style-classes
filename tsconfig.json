@@ -1,0 +1,17 @@
+{
+  // Build directory because your include folder cannot also be your outDir
+  "include": ["build/index.js"],
+  "compilerOptions": {
+    // Tells TypeScript to read JS files, as
+    // normally they are ignored as source files
+    "allowJs": true,
+    // Generate d.ts files
+    "declaration": true,
+    // Generates corresponding .map file.
+    "sourceMap": true,
+    // Types should go into this directory.
+    // Removing this would place the .d.ts files
+    // next to the .js files
+    "outDir": "dist",
+  }
+}

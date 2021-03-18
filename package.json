@@ -1,0 +1,25 @@
+{
+  "name": "sd-tailwind-style-classes",
+  "version": "1.0.0",
+  "description": "Style Dictionary Tailwind Style Classes Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf ./{dist,build}",
+    "build": "yarn clean && style-dictionary build && yarn create:index && yarn build:ts",
+    "build:ts": "tsc",
+    "postbuild": "yarn run format",
+    "create:index": "create-index -c '{\"mode\":\"*\"}' build/",
+    "format": "prettier './dist/**/*.{js,json,css}' --write && prettier './dist/**/*.ts' --write --parser typescript"
+  },
+  "author": "Frank Stallone III",
+  "license": "ISC",
+  "devDependencies": {
+    "create-index-better": "^1.5.0",
+    "pascalcase": "^1.0.0",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "style-dictionary": "^3.0.0-rc.6",
+    "typescript": "^4.2.3"
+  }
+}

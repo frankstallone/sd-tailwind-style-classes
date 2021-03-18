@@ -1,0 +1,24 @@
+'use strict';
+exports.__esModule = true;
+exports.TextNeutral900 = exports.TextNeutral800 = exports.TextNeutral700 = exports.TextNeutral600 = exports.TextNeutral500 = exports.TextNeutral400 = exports.TextNeutral300 = exports.TextNeutral200 = exports.TextNeutral100 = exports.TextNeutral50 = exports.TextPrimary900 = exports.TextPrimary800 = exports.TextPrimary700 = exports.TextPrimary600 = exports.TextPrimary500 = exports.TextPrimary400 = exports.TextPrimary300 = exports.TextPrimary200 = exports.TextPrimary100 = exports.TextPrimary50 = void 0;
+exports.TextPrimary50 = 'text-primary-50';
+exports.TextPrimary100 = 'text-primary-100';
+exports.TextPrimary200 = 'text-primary-200';
+exports.TextPrimary300 = 'text-primary-300';
+exports.TextPrimary400 = 'text-primary-400';
+exports.TextPrimary500 = 'text-primary-500';
+exports.TextPrimary600 = 'text-primary-600';
+exports.TextPrimary700 = 'text-primary-700';
+exports.TextPrimary800 = 'text-primary-800';
+exports.TextPrimary900 = 'text-primary-900';
+exports.TextNeutral50 = 'text-neutral-50';
+exports.TextNeutral100 = 'text-neutral-100';
+exports.TextNeutral200 = 'text-neutral-200';
+exports.TextNeutral300 = 'text-neutral-300';
+exports.TextNeutral400 = 'text-neutral-400';
+exports.TextNeutral500 = 'text-neutral-500';
+exports.TextNeutral600 = 'text-neutral-600';
+exports.TextNeutral700 = 'text-neutral-700';
+exports.TextNeutral800 = 'text-neutral-800';
+exports.TextNeutral900 = 'text-neutral-900';
+//# sourceMappingURL=text-color.js.map
